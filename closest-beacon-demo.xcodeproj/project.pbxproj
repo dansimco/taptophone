@@ -157,7 +157,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0600;
-				ORGANIZATIONNAME = "Tevsi LLC";
+				ORGANIZATIONNAME = Westfield;
 				TargetAttributes = {
 					11E8418D19E99A7F00D73840 = {
 						CreatedOnToolsVersion = 6.0.1;
@@ -405,6 +405,7 @@
 				11E841AF19E99A7F00D73840 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		11E841B019E99A7F00D73840 /* Build configuration list for PBXNativeTarget "closest-beacon-demoTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				11E841B219E99A7F00D73840 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
