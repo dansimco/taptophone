@@ -1,3 +1,5 @@
-![The demo app in action](http://cdn.willd.me/images/posts/ibeacon-tutorial/app-demo.gif)
+##Tap to phone demo
 
-This code accompanies a full [tutorial](http://willd.me/posts/getting-started-with-ibeacon-a-swift-tutorial) and [screencast](https://www.youtube.com/watch?v=3jJiqzbzutU).
+Not suitable for production use, proof of concept only.
+
+Forked from Will Dages' tutorial code here: [http://willd.me/posts/getting-started-with-ibeacon-a-swift-tutorial](http://willd.me/posts/getting-started-with-ibeacon-a-swift-tutorial)
